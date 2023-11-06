@@ -2,3 +2,6 @@ numpy
 matplotlib
 seaborn
 pysal
+libpysal
+geopandas
+pandas
